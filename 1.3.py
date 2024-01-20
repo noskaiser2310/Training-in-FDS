@@ -1,0 +1,7 @@
+X=int(input("Nhap X :"))
+Y=int(input("Nhap Y :"))
+Z=int(input("Nhap Z :"))
+T=int(input("Nhap T :"))
+print(X,",",Y,",",Z,",",T)
+print(X+Y+Z+T)
+print(X - Y + Z * T)

@@ -1,0 +1,5 @@
+n=int(input("Nhap N :"))
+print(n*2)
+print(n*10)
+print(int(n/2))
+print(round(float(n/2),3))

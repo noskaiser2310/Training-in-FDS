@@ -1,0 +1,8 @@
+X=int(input("Nhap X :"))
+Y=int(input("Nhap Y :"))
+Z=int(input("Nhap Z :"))
+T=int(input("Nhap T :"))
+print(max(X,Y))
+print(min(Z,T))
+print(max(X,Y,Z))
+print(min(X,Y,Z,T))
